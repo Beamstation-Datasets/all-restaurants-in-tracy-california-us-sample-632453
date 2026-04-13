@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Tracy, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Tracy, California, US",
+  "export_job_id": "a5951519-a4be-466f-be1f-fa3a2347d1fd",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 632453,
+  "location_name": "Tracy",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-tracy-california-us-sample-632453",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/632453/beamstation_632453_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.94,
+  "sample_records": 17,
+  "sample_sha256": "df7de496a309252223bcefdb6cdfec5923c14c83f2fd4a6f0659b445da636800",
+  "sample_size_bytes": 79736,
+  "total_records": 171,
+  "updated_at": "2026-04-09T15:44:31.666210+00:00"
+}

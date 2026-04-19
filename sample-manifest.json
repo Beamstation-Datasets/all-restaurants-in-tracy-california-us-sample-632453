@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a5951519-a4be-466f-be1f-fa3a2347d1fd",
+  "export_job_id": "006f5515-d92a-4808-9c1e-6b6dae06575e",
   "id_short": 632453,
-  "published_at": "2026-04-13T07:15:44Z",
+  "published_at": "2026-04-19T19:09:30Z",
   "repo_name": "all-restaurants-in-tracy-california-us-sample-632453",
   "sample_asset_name": "beamstation_632453_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/632453/beamstation_632453_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 17,
-  "sample_sha256": "df7de496a309252223bcefdb6cdfec5923c14c83f2fd4a6f0659b445da636800",
-  "sample_size_bytes": 79736,
+  "sample_sha256": "1d92b919a62abfe0e2b3fe0816e33524364497fa81cf611a364c60232f843aa3",
+  "sample_size_bytes": 75096,
   "total_records": 171
 }

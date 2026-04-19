@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 171 records |
 | Free sample size | 17 records (9.94%) |
-| Last export | 2026-04-09T15:44:31.666210+00:00 |
+| Last export | 2026-04-16T18:29:10.867188+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tracy-california-us-sample-632453/releases/download/sample-latest/beamstation_632453_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample

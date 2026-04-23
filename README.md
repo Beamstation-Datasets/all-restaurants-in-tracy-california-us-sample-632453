@@ -1,6 +1,6 @@
 # All Restaurants in Tracy, California, US
 
-> Free BeamStation sample export with 17 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `632453` |
 | Location | Tracy |
 | Category | Restaurants |
-| Full dataset size | 171 records |
-| Free sample size | 17 records (9.94%) |
-| Last export | 2026-04-16T18:29:10.867188+00:00 |
+| Full dataset size | 101 records |
+| Free sample size | 10 records (9.9%) |
+| Last export | 2026-04-23T14:42:15.542948+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tracy-california-us-sample-632453/releases/download/sample-latest/beamstation_632453_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
